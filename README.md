@@ -41,7 +41,7 @@ This project focuses on core JavaScript logic, DOM manipulation, and clean UI be
 
 ## 🌍 Live Demo
 
-👉 https://naman1610k.github.io/rock-paper-scissors-js/
+👉 https://naman1610k.github.io/Rock-Paper-Scissor-JS/
 
 ---
 
